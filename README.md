@@ -7,6 +7,6 @@
 * download/clone repo
 * `cd hangman`
 * `git checkout master`
-* `yarn` or `npm insatall`
+* `yarn` or `npm install`
 * `yarn start` or `npm start`
 
